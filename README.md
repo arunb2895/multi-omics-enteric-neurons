@@ -12,8 +12,8 @@ Enteric neurons are sometimes called the *“second brain”* because they form
 intricate networks that regulate gut motility, secretion and immune
 responses.  With advances in single‑cell RNA‑seq and mass spectrometry we
 can now study these neurons at unprecedented resolution.  Combining
-datasets across different molecular layers — genes, proteins and
-metabolites — offers a more complete picture of cellular state.
+datasets across different molecular layers genes, proteins and
+metabolites offers a more complete picture of cellular state.
 
 ## Project structure
 
