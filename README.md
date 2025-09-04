@@ -1,7 +1,7 @@
 # Multi-omics Enteric Neurons
 
 This repository is a starting point for exploring **multi‑omics data** from
-enteric neurons — the neurons that form the enteric nervous system within the
+enteric neurons- the neurons that form the enteric nervous system within the
 gastrointestinal tract.  The goal is to integrate transcriptomic,
 proteomic, metabolomic and other omic datasets to understand how enteric
 neurons develop, adapt and communicate with their environment.
@@ -19,7 +19,7 @@ metabolites offers a more complete picture of cellular state.
 
 This repository includes a few basic components to get started:
 
-- `data/` – a directory where you can place raw data files (e.g. FASTQ,
+- `data/` - a directory where you can place raw data files (e.g. FASTQ,
   proteomics CSVs, metabolomics tables).  This directory is empty by
   default.
 - `notebooks/` – Jupyter notebooks for exploratory analysis and
