@@ -1,0 +1,6 @@
+# Ignore data files and environment artifacts
+data/*
+*.pyc
+__pycache__/
+.venv/
+.env
